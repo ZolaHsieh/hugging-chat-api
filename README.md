@@ -1,5 +1,11 @@
 # 📦 Chatbot by using HugChat and Streamlit
 
+## Command to run code
+``` 
+streamlit run streamlit_app.py
+```
+## Result
+![Demo App](./demo.png)
 
 ## Reference
 - [How to build an LLM-powered ChatBot with Streamlit](https://blog.streamlit.io/how-to-build-an-llm-powered-chatbot-with-streamlit/?source=post_page-----6a3c30860fbc--------------------------------)
