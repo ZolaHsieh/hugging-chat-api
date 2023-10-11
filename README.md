@@ -1,3 +1,12 @@
+# 📦 Chatbot by using HugChat and Streamlit
+
+## Command to run code
+``` 
+streamlit run streamlit_app.py
+```
+## Result
+![Demo App](./demo.png)
+=======
 # Chatbot by using HugChat and Streamlit
 ```
 This project is an exercise in implementing LLM chatbot using HugChat (an unofficial port of HuggingFace Chat API)
